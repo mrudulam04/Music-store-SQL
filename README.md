@@ -55,4 +55,4 @@ analysis_queries.sql: Contains the 11 business-critical queries and analysis.
 
 **DATABASE SCHEMA**
 
-![Database Schema Diagram](ER music store.png)
+![Database Schema Diagram](ER_music_store.png)
