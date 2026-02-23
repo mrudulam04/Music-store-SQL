@@ -53,6 +53,4 @@ database_setup.sql (The tables): Contains the CREATE TABLE and schema definition
 
 analysis_queries.sql: Contains the 11 business-critical queries and analysis.
 
-**DATABASE SCHEMA**
-
-![Database Schema Diagram](ER_music_store.png)
+ER music store.png: The visual ER diagram of the database.
