@@ -46,3 +46,9 @@ The "Rock" Market: Filtered all customers who purchased Rock music to create a t
 Top Artists: Ranked the top 10 artists based on the volume of Rock tracks in the store.
 
 Regional Popularity: Determined the most popular music genre for each country based on purchase counts.
+
+**📂 Project Structure**
+
+database_setup.sql (The tables): Contains the CREATE TABLE and schema definition scripts.
+
+analysis_queries.sql: Contains the 11 business-critical queries and analysis.
