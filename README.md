@@ -52,3 +52,7 @@ Regional Popularity: Determined the most popular music genre for each country ba
 database_setup.sql (The tables): Contains the CREATE TABLE and schema definition scripts.
 
 analysis_queries.sql: Contains the 11 business-critical queries and analysis.
+
+**DATABASE SCHEMA**
+
+![Database Schema Diagram](schema_diagram.png)
